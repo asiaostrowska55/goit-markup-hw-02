@@ -12,6 +12,7 @@ body {
   font-size: 26px;
   text-decoration: none;
   line-height: 1.19;
+  letter-spacing: 0.03;
 }
 .webstudio2 {
   font-family: "Raleway";
@@ -20,11 +21,13 @@ body {
   font-size: 26px;
   text-decoration: none;
   line-height: 1.19;
+  letter-spacing: 0.03;
 }
 .link {
   font-size: 14px;
   text-decoration: none;
   line-height: 1.14;
+  letter-spacing: 0.02;
 }
 .contact {
   font-weight: 500;
@@ -32,6 +35,7 @@ body {
   font-size: 14px;
   text-decoration: none;
   line-height: 1.14;
+  letter-spacing: 0.02;
 }
 .webstudio:hover,
 .webstudio:focus {
@@ -58,6 +62,7 @@ body {
   border-radius: 4px;
   cursor: pointer;
   line-height: 1.62;
+  letter-spacing: 0.03;
 }
 
 .btn:hover {
@@ -75,6 +80,7 @@ body {
   border-radius: 4px;
   cursor: pointer;
   line-height: 1.88;
+  letter-spacing: 0.06;
 }
 .btn-studio:hover {
   box-shadow: 1px 0px 2px 3px #8c8c8c;
@@ -83,48 +89,57 @@ body {
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
+  letter-spacing: 0.06;
 }
 .portfolio-descr {
   font-size: 16px;
   color: #757575;
   line-height: 1.88;
+  letter-spacing: 0.06;
 }
 .address {
   font-size: 14px;
   /* color: #ffffff; */
   font-style: normal;
   line-height: 1.7;
+  letter-spacing: 0.03;
 }
 .title {
   font-weight: 900;
   font-size: 44px;
   /* color: #ffffff; */
   line-height: 1.36;
+  letter-spacing: 0.06;
 }
 .lorem {
   font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
+  letter-spacing: 0.03;
 }
 .paragraph {
   font-size: 14px;
   color: #757575;
   line-height: 1.71;
+  letter-spacing: 0.03;
 }
 .what-we-do,
 .team-title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.66;
+  letter-spacing: 0.03;
 }
 .name {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.18;
+  letter-spacing: 0.03;
 }
 
 .job-name {
   font-size: 16px;
   color: #757575;
   line-height: 1.18;
+  letter-spacing: 0.03;
 }
