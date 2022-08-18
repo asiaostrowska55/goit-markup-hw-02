@@ -70,5 +70,20 @@ body {
   border-radius: 4px;
 }
 .btn-studio:hover {
-  box-shadow: 1px 0px 4px 3px #8c8c8c;
+  box-shadow: 1px 0px 2px 3px #8c8c8c;
+}
+.portfolio-titles {
+  font-weight: 700;
+  font-size: 18px;
+}
+.portfolio-descr {
+  font-weight: 400;
+  font-size: 16px;
+  color: #757575;
+}
+.address {
+  font-weight: 400;
+  font-size: 14px;
+  color: #ffffff;
+  font-style: normal;
 }
