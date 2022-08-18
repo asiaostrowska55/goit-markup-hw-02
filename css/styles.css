@@ -1,5 +1,6 @@
 body {
-  font-family: "Roboto";
+  font-family: "Roboto", "Raleway", sans-serif;
+  color: #212121;
 }
 .blue {
   color: #2196f3;
@@ -11,15 +12,19 @@ body {
   font-size: 26px;
   text-decoration: none;
 }
+.webstudio2 {
+  font-family: "Raleway";
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 26px;
+  text-decoration: none;
+}
 .link {
-  font-family: "Roboto";
   font-weight: 400;
-  color: #212121;
   font-size: 14px;
   text-decoration: none;
 }
 .contact {
-  font-family: "Roboto";
   font-weight: 500;
   color: #757575;
   font-size: 14px;
@@ -27,6 +32,10 @@ body {
 }
 .webstudio:hover,
 .webstudio:focus {
+  color: #2196f3;
+}
+.webstudio2:hover,
+.webstudio2:focus {
   color: #2196f3;
 }
 
@@ -37,4 +46,29 @@ body {
 .contact:hover,
 .contact:focus {
   color: #2196f3;
+}
+.btn {
+  font-weight: 500;
+  font-size: 16px;
+  background-color: #f5f4fa;
+  border: 1px #9c9c9c;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  color: #ffffff;
+  background-color: #2196f3;
+  box-shadow: 1px 4px 3px 0px #b2b2b3;
+  border: 1px #9c9c9c;
+}
+.btn-studio {
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  background-color: #2196f3;
+  border: 1px #9c9c9c;
+  border-radius: 4px;
+}
+.btn-studio:hover {
+  box-shadow: 1px 0px 4px 3px #8c8c8c;
 }
