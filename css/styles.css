@@ -11,24 +11,27 @@ body {
   color: #000000;
   font-size: 26px;
   text-decoration: none;
+  line-height: 1.19;
 }
 .webstudio2 {
   font-family: "Raleway";
   font-weight: 700;
-  color: #ffffff;
+  /* color: #ffffff; */
   font-size: 26px;
   text-decoration: none;
+  line-height: 1.19;
 }
 .link {
-  font-weight: 400;
   font-size: 14px;
   text-decoration: none;
+  line-height: 1.14;
 }
 .contact {
   font-weight: 500;
   color: #757575;
   font-size: 14px;
   text-decoration: none;
+  line-height: 1.14;
 }
 .webstudio:hover,
 .webstudio:focus {
@@ -53,6 +56,8 @@ body {
   background-color: #f5f4fa;
   border: 1px #9c9c9c;
   border-radius: 4px;
+  cursor: pointer;
+  line-height: 1.62;
 }
 
 .btn:hover {
@@ -68,6 +73,8 @@ body {
   background-color: #2196f3;
   border: 1px #9c9c9c;
   border-radius: 4px;
+  cursor: pointer;
+  line-height: 1.88;
 }
 .btn-studio:hover {
   box-shadow: 1px 0px 2px 3px #8c8c8c;
@@ -75,15 +82,49 @@ body {
 .portfolio-titles {
   font-weight: 700;
   font-size: 18px;
+  line-height: 2;
 }
 .portfolio-descr {
-  font-weight: 400;
   font-size: 16px;
   color: #757575;
+  line-height: 1.88;
 }
 .address {
-  font-weight: 400;
   font-size: 14px;
-  color: #ffffff;
+  /* color: #ffffff; */
   font-style: normal;
+  line-height: 1.7;
+}
+.title {
+  font-weight: 900;
+  font-size: 44px;
+  /* color: #ffffff; */
+  line-height: 1.36;
+}
+.lorem {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+}
+.paragraph {
+  font-size: 14px;
+  color: #757575;
+  line-height: 1.71;
+}
+.what-we-do,
+.team-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.66;
+}
+.name {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.18;
+}
+
+.job-name {
+  font-size: 16px;
+  color: #757575;
+  line-height: 1.18;
 }
